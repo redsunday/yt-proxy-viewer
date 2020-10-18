@@ -4,7 +4,8 @@ Increase youtube views with different proxies
 This tool depends on python3 and uses some libraries. In order to install them, you can use pip:
 
 ```sh
-$ sudo pip3 install -r requirements.txt
+$ git clone https://github.com/redsunday/yt-proxy-viewer.git
+$ pip3 install -r requirements.txt
 ```
 
 ### Dependencies
